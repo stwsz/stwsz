@@ -1,6 +1,6 @@
 <img width="100%" height="3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5bLxIv9tCAwEm9kx96yLKBD4eMUJQTVTAdh9TWN-Rg&s">
 
-<h1 align="center">Olá👋, seja Bem-vindo!</h1>
+<h1 align="center">Olá👋, seja Bem-vindo(a)!</h1>
 
 <p>Me chamo Igor Gabriel, moro atualmente em Paulista e tenho 22 anos, sou um amante da tecnologia que está sempre atrás de novos aprendizados e experiências dia após dia, gosto muito do desenvolvimento web e pretendo me tornar Full Stack.</p>
 
