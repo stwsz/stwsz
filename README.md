@@ -38,8 +38,8 @@ I have always been passionate about technology, which led me to dive headfirst i
 ## ououoo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabriel01&layout=compact&card_width=420&height=380&langs=10&theme=dark" alt="Top Languages" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorGabriel01&show_icons=true&count_private=true&card_width=420&height=180&theme=dark" alt="Commits" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabriel01&layout=compact&card_width=350&height=380&langs=10&theme=dark" alt="Top Languages" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorGabriel01&show_icons=true&count_private=true&card_width=350&height=180&theme=dark" alt="Commits" align="right"/>
 </p>
 
 
