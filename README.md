@@ -1,4 +1,4 @@
-<h1>Hello, I'm Igor Araújo 👋🏼</h1> 
+<h1 align="center">Hello, I'm Igor Araújo 👋🏼</h1> 
 
 ![Cover software engineer Igor Araújo](/cover.jpeg)
 
