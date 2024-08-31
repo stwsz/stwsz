@@ -1,60 +1,11 @@
-<img width="100%" height="3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5bLxIv9tCAwEm9kx96yLKBD4eMUJQTVTAdh9TWN-Rg&s">
+# Hello, I'm Igor Araújo 👋🏼
 
-<h1 align="center">Olá👋, seja Bem-vindo(a)!</h1>
+I have always been passionate about technology, which led me to dive headfirst into the world of software development. I have a special fondness for front-end development, where I use **Svelte** and **React.js** to create dynamic and engaging experiences. Although my focus is primarily on the front-end, I am starting to explore the world of back-end development, learning and challenging myself at every step. I am always in search of new knowledge, believing that curiosity is the fuel that drives us forward.
 
-<p>Me chamo Igor Gabriel, moro atualmente em Paulista e tenho 22 anos, sou um amante da tecnologia que está sempre atrás de novos aprendizados e experiências dia após dia, gosto muito do desenvolvimento web e pretendo me tornar Full Stack.</p>
+- 💻 **Junior Software Developer** at [**Hefti Engineering GmbH**](https://github.com/HeftiEngineering)
+- 🚀 **Front-End Developer Trainee** at [**Cordel**](https://github.com/Cordel-Labs)
+- 📘 Studying **Analysis and Systems Development** at **UNIT** through **Embarque Digital**
+- 📙 Studying **Software Engineering** at **Faculdade Pitágoras**
 
-- 💬 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na UNIT pelo Embarque Digital!
-- 📚 Tenho conhecimento em Desenvolvimento Web com HTML, CSS e JavaScript.
-- 🔭 Estou em procura da minha primeira oportunidade de trabalho, tenho o sonho de um dia trabalhar como Desenvolvedor Web Full Stack.
-
-<div align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorGabriel01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorGabriel01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
-  
-</div>
-
-<br>
-
-<div align="left">
-
-  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/igorgabriel-dev/)
-  
-</div>
-
-<br>
-
-<h2>💼 Portfólio</h2>
-
-- [DecodiOne](https://decodificador-de-texto-alura-git-f7a225-igor-gabriels-projects.vercel.app/index.html)
-
-<br>
-
-<h2>👨‍💻 Habilidades</h2>
-
-<h3>Linguagens de Programação</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-<h3>Frameworks</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-</div>
-
-<h3>Bibliotecas</h3>
-
-<div> 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-
-</div>
 
 
