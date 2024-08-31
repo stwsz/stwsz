@@ -35,7 +35,7 @@ I have always been passionate about technology, which led me to dive headfirst i
 ### 🎨 Design
 ![Badge Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## ououoo
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabriel01&layout=compact&card_width=350&height=380&langs=10&theme=dark" alt="Top Languages" align="left"/>
