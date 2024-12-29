@@ -9,7 +9,6 @@ I have always been passionate about technology, which led me to dive headfirst i
 
 - 💻 **Junior Software Developer** at [**`Hefti Engineering GmbH`**](https://github.com/HeftiEngineering)
 - 📘 Studying **Analysis and Systems Development** at **UNIT** through **Embarque Digital**
-- 📙 Studying **Software Engineering** at **Faculdade Pitágoras**
 
 ## 🛠️ Skills
 
