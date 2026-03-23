@@ -17,7 +17,7 @@
 
 <table align="center">
   <tr>
-    <td align="left">
+    <td align="left" width="">
       <p><strong>About me</strong></p>
       <ul>
         <li><sub>💼 IT Manager & Full-Stack Developer (Brazil Team) at BlueAlps</sub></li>
@@ -28,16 +28,18 @@
       <p>I also enjoy watching anime</p>
     </td>
     <td align="center">
-      <img src="https://i.pinimg.com/736x/45/05/5f/45055fa20e629152b19d7aa50d554a43.jpg" width="280"/>
+      <img src="./kali-image-1.png" height="280" />
     </td>
   </tr>
 </table>
 
 <br/>
-<br/>
 
 <table align="center">
   <tr>
+    <td>
+      <img src="./image-typescript-1.png" height="280" />
+    </td>
     <td align="left">
       <p>
         <strong>🔧 Tools & Environments</strong><br/>
@@ -68,7 +70,6 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
       </p>
     </td>
-    <td width="225"></td>
   </tr>
 </table>
 
