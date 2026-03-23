@@ -1,44 +1,97 @@
-<h1 align="center">Hello, I'm Igor Araújo 👋🏼</h1> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C77DFF&height=140&section=header"/>
+</div>
 
 <div align="center">
-  <img src="/cover.jpg" alt="Cover software engineer Igor Araújo"  />
+  <code>Hi, my name is Igor Araújo 👋</code>
 </div>
+
 <br/>
 
-I have always been passionate about technology, which led me to dive headfirst into the world of software development. I have a special fondness for front-end development, where I use **Svelte** and **React.js** to create dynamic and engaging experiences. Although my focus is primarily on the front-end, I am starting to explore the world of back-end development, learning and challenging myself at every step. I am always in search of new knowledge, believing that curiosity is the fuel that drives us forward.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C77DFF&width=900&size=22&center=true&vCenter=true&pause=1000&repeat=true&lines=Born+in+Brazil;Full-stack+Developer+%7C+Cybersecurity;Web+Performance+%7C+Core+Web+Vitals+%7C+Svelte" />
+</div>
 
-- 💻 **Junior Software Developer** at [**`BlueAlps`**](https://www.linkedin.com/company/bluealps/)
-- 📘 Studying **Analysis and Systems Development** at **UNIT** through **Embarque Digital**
+<br/>
+<br/>
 
-## 🛠️ Skills
+<table align="center">
+  <tr>
+    <td align="left">
+      <p><strong>About me</strong></p>
+      <ul>
+        <li><sub>💼 IT Manager & Full-Stack Developer (Brazil Team) at BlueAlps</sub></li>
+        <li><sub>🔐 Postgraduate student in Cybersecurity (CESAR School)</sub></li>
+        <li><sub>🎓 Bachelor's degree in Systems Analysis and Development (UNIT - Embarque Digital)</sub></li>
+        <li><sub>⚡ Strong experience with Svelte, performance, SEO, and best practices</sub></li>
+      </ul>
+      <p>I also enjoy watching anime</p>
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/45/05/5f/45055fa20e629152b19d7aa50d554a43.jpg" width="280"/>
+    </td>
+  </tr>
+</table>
 
-### 🔧 Tools and environments
-![Badge Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Badge GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![Badge Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-![Badge Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-<a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
+<br/>
+<br/>
 
-### 💻 Front-End Development
-![Badge HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Badge Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Badge SASS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Badge Tailwind](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  ![Badge JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Badge TypeScript](    https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Badge React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Badge React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![Badge Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  ![Badge Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Badge Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+<table align="center">
+  <tr>
+    <td align="left">
+      <p>
+        <strong>🔧 Tools & Environments</strong><br/>
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
+      </p>
+      <p>
+        <strong>💻 Front-End</strong><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+      <p>
+        <strong>⚙️ Back-End</strong><br/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+      </p>
+      <p>
+        <strong>🎨 Design</strong><br/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      </p>
+    </td>
+    <td width="225"></td>
+  </tr>
+</table>
 
-### ⚙️ Back-End Development
-![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
 
-### 🎨 Design
-![Badge Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stwsz&theme=tokyonight" />
+</div>
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwsz&layout=compact&card_width=350&height=380&langs=10&theme=dark" alt="Top Languages" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=stwsz&show_icons=true&count_private=true&card_width=350&height=180&theme=dark" alt="Commits" align="right"/>
+<p align="center" width="95%">
+  <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwsz&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=stwsz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C77DFF&height=140&section=footer"/>
+</div>
+
 
 
 
