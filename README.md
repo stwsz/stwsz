@@ -76,22 +76,22 @@
 <br/>
 
 <div align="center">
-  <img width="84.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stwsz&theme=tokyonight" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stwsz&theme=tokyonight" />
 </div>
 
 <br/>
 
-<p align="center" width="84%">
-  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwsz&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwsz&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=stwsz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="52.8%" src="https://github-readme-stats.vercel.app/api?username=stwsz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <br/>
 
 <div align="center">
   <strong>Contact me</strong><br/><br/>
-  <a href="https://www.linkedin.com/in/igorgabriel-dev/">
+  <a href="[https://www.linkedin.com/in/igorgabriel-dev/](https://www.linkedin.com/in/igoraraujo01-dev/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
