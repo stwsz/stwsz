@@ -20,10 +20,10 @@
     <td align="left" width="520">
       <p><strong>About me</strong></p>
       <ul>
-        <li><sub>💼 IT Manager & Full-Stack Developer (Brazil Team) at BlueAlps</sub></li>
-        <li><sub>🔐 Postgraduate student in Cybersecurity (CESAR School)</sub></li>
-        <li><sub>🎓 Bachelor's degree in Systems Analysis and Development (UNIT - Embarque Digital)</sub></li>
-        <li><sub>⚡ Strong experience with Svelte, performance, SEO, and best practices</sub></li>
+        <li>💼 IT Manager & Full-Stack Developer (Brazil Team) at BlueAlps</li>
+        <li>🔐 Postgraduate student in Cybersecurity (CESAR School)</li>
+        <li>🎓 Bachelor's degree in Systems Analysis and Development (UNIT - Embarque Digital)</li>
+        <li>⚡ Strong experience with Svelte, performance, SEO, and best practices</li>
       </ul>
       <p>I also enjoy watching anime</p>
     </td>
