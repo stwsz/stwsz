@@ -76,7 +76,7 @@
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stwsz&theme=tokyonight" />
+  <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stwsz&theme=tokyonight" />
 </div>
 
 <br/>
