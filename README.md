@@ -91,7 +91,7 @@
 
 <div align="center">
   <strong>Contact me</strong><br/><br/>
-  <a href="[https://www.linkedin.com/in/igorgabriel-dev/](https://www.linkedin.com/in/igoraraujo01-dev/)">
+  <a href="https://www.linkedin.com/in/igoraraujo01-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
