@@ -84,7 +84,7 @@
 <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwsz&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=stwsz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="55.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stwsz&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <br/>
