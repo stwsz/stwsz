@@ -81,10 +81,12 @@
 
 <br/>
 
+<br/>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwsz&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+  <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stwsz&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
-  <img width="46.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stwsz&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stwsz&theme=tokyonight&utcOffset=-3" />
 </p>
 
 <br/>
